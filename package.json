@@ -1,0 +1,16 @@
+{
+  "name": "pedido-service",
+  "version": "1.0.0",
+  "description": "Microsserviço fictício de pedidos para atividade de documentação de microsserviços.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "keywords": [
+    "microsserviço",
+    "pedidos",
+    "documentação"
+  ],
+  "author": "Gustavo de Oliveira Martins",
+  "license": "MIT"
+}
